@@ -14,6 +14,13 @@
  * A0 不接
  * 
  * 功能：當磁簧開關被觸發時會快速廣播通知其他micro:bit
+ * 
+ * 內圈廣播22
+ * 
+ * 外圈廣播33
+ * 
+ * 廣播訊號是"TRIGGERED"
+ * 
  */
 let lastBroadcastTime = 0
 let isTriggered = false
